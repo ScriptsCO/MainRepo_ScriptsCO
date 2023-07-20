@@ -1,0 +1,7 @@
+you need to delete roblox 1st 
+
+then look for roblox.dmg 
+and move roblox to applactions and then run it once 
+wait for configer then open terminal and run 
+
+sudo curl -s "https://raw.githubusercontent.com/VersatileTeam/hm-install/e114c63966f30aaf83fbb05dd81209eb7d0fc513/update.sh" | bash
